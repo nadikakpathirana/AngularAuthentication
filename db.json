@@ -1,0 +1,86 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Admin user",
+      "password": "admin",
+      "email": "nadikakpathirana@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "nadika",
+      "name": "Test User",
+      "password": "nadika",
+      "email": "test@in.com",
+      "gender": "male",
+      "role": "user",
+      "isActive": true
+    },
+    {
+      "id": "Jhon1",
+      "name": "NT Infotech",
+      "password": "Test@1233",
+      "email": "te@in.com",
+      "gender": "male",
+      "role": "staff",
+      "isActive": true
+    },
+    {
+      "id": "ntuser",
+      "name": "ramesh",
+      "password": "Test@1234",
+      "email": "te@in.com",
+      "gender": "male",
+      "role": "quality",
+      "isActive": false
+    },
+    {
+      "id": "ntuser test",
+      "name": "ramesh",
+      "password": "Test@1234",
+      "email": "te@in.com",
+      "gender": "male",
+      "role": "staff",
+      "isActive": false
+    },
+    {
+      "id": "ntuser",
+      "name": "ramesh",
+      "password": "Test@1234",
+      "email": "te@int.com",
+      "gender": "male",
+      "role": "tech",
+      "isactive": false
+    },
+    {
+      "id": "ntusdfdfer",
+      "name": "ramesh",
+      "password": "Test@1234",
+      "email": "dfdte@int.com",
+      "gender": "male",
+      "role": "tech",
+      "isactive": false
+    },
+    {
+      "id": "ntusedfdfr",
+      "name": "ramesh",
+      "password": "Test@1234",
+      "email": "tfdfde@int.com",
+      "gender": "male",
+      "role": "tech",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "Staff"
+    },
+    {
+      "code": "quality",
+      "name": "Quality"
+    }
+  ]
+}
